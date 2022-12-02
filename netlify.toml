@@ -4,5 +4,3 @@
   from = "/*"
   to = "https://silver-concha-8aa40d.netlify.app/"
   status = 200
-  force = true
-  headers = {X-From = "Netlify"}
